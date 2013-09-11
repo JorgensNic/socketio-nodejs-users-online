@@ -2,7 +2,7 @@
 
  *By @JorgensNic on twitter
  *fb.com/Jorgens.ni
- *Linkendin.com/j_Rodriguez
+ *about.me/j_Rodriguez
  *Version Code: 0.0.1
 
  */
